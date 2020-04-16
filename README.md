@@ -15,5 +15,6 @@ e Manaus:
 * Danielle Cohen (canal oficial de comunicação para logística)
 * Barbara Castro (design)
 * Luiz Ludwig (design)
+* Daniel Wittic
 
 Vale ressaltar que ambas são ferramentas e não são versões finais e necessitam ser adaptada as necessidades locais de cada grupo de ação.
