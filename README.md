@@ -1,5 +1,5 @@
 ## PLANLOG V2.0 (https://github.com/planlog/v2/) e
-## GEOMAP (https://github.com/franklinveras/SOS-3D-Logistica)
+## GEOMAP (https://github.com/franklinveras/GEOMAP)
 
 São iniciativas sem fins lucrativos para auxiliar na gestão, mapeamento e planejamento logístico da entrega de doações de equipamentos para unidades de saúde.
 Esta é uma iniciativa colaborativa iniciada por profissionais de diferentes áreas entre 25/03 a 16/04/2020 remotamente no Rio de Janeiro
