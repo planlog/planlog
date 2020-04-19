@@ -1,5 +1,5 @@
 # PLANLOG V2.0 (https://github.com/planlog/v2/)
-Planilha para controle de oferta e demanda de insumos para hospitais, fornecidos por voluntários, como por exemplo impressões 3D de faceshields, respiradores...etc
+Planilha VBA para controle de oferta e demanda de insumos para hospitais, fornecidos por voluntários, como por exemplo impressões 3D de faceshields, respiradores...etc
 
 ## Descrição
 PLANLOG V2.0 e [GEOMAP](https://github.com/franklinveras/GEOMAP) São iniciativas colaborativas e sem fins lucrativos feitas por profissionais de diferentes áreas entre 25/03 a 16/04/2020 remotamente no Rio de Janeiro e Manaus para auxiliar na gestão, mapeamento e planejamento logístico da entrega de doações de equipamentos para unidades de saúde.
