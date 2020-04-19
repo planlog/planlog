@@ -1,9 +1,11 @@
-## PLANLOG V2.0 (https://github.com/planlog/v2/) e
-## GEOMAP (https://github.com/franklinveras/GEOMAP)
+# PLANLOG V2.0 (https://github.com/planlog/v2/)
+Planilha para controle de oferta e demanda de insumos para hospitais, fornecidos por voluntários, como por exemplo impressões 3D de faceshields, respiradores...etc
 
-São iniciativas sem fins lucrativos para auxiliar na gestão, mapeamento e planejamento logístico da entrega de doações de equipamentos para unidades de saúde.
-Esta é uma iniciativa colaborativa iniciada por profissionais de diferentes áreas entre 25/03 a 16/04/2020 remotamente no Rio de Janeiro
-e Manaus:
+## Descrição
+PLANLOG V2.0 e [GEOMAP](https://github.com/franklinveras/GEOMAP) São iniciativas colaborativas e sem fins lucrativos feitas por profissionais de diferentes áreas entre 25/03 a 16/04/2020 remotamente no Rio de Janeiro e Manaus para auxiliar na gestão, mapeamento e planejamento logístico da entrega de doações de equipamentos para unidades de saúde.
+
+## Agradecimentos
+A todos os makers e voluntários que dedicaram seus recursos, equipamento, e tempo para promover a seguraça de quem cuida de nós: os profissioais de saúde, e porque não, agradecer aos próprios profissionais de saúde. Fica um agradecimento especial ao time de logística do SOS3D Covid-19, a saber:
 
 * Alexander Ishikawa (gestão e desenvolvimento para logística)
 * Lidiane Lima (desenvolvimento PLANLOG VBA)
@@ -17,6 +19,6 @@ e Manaus:
 * Luiz Ludwig (design)
 * Daniel Wittic
 
-Vale ressaltar que ambas são ferramentas e não são versões finais e necessitam ser adaptada as necessidades locais de cada grupo de ação.
+**OBS: A ferramenta apresentada não é uma versão final e necessita ser adaptada às necessidades locais de cada grupo de ação.**
 
 ![Ilustração de uso da ferramenta PLANLOG](/planlog.PNG)
