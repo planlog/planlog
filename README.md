@@ -16,6 +16,6 @@ PLANLOG V2.0 e [GEOMAP](https://github.com/franklinveras/GEOMAP) São iniciativa
 * Luiz Ludwig (design)
 * Daniel Wittic
 
-**OBS: A ferramenta apresentada é uma versão final e necessita ser adaptada às necessidades locais de cada grupo de ação.**
+**OBS: A ferramenta apresentada não é uma versão final e necessita ser adaptada às necessidades locais de cada grupo de ação.**
 
 ![Ilustração de uso da ferramenta PLANLOG](/planlog.PNG)
