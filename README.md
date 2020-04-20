@@ -23,4 +23,3 @@ A todos os makers e voluntários que dedicaram seus recursos, equipamento, e tem
 
 ![Ilustração de uso da ferramenta PLANLOG](/planlog.PNG)
 ![Ilustração dos forms na ferramenta PLANLOG](/planlog-forms.PNG)
-
