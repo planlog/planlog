@@ -22,4 +22,4 @@ A todos os makers e voluntários que dedicaram seus recursos, equipamento, e tem
 **OBS: A ferramenta apresentada não é uma versão final e necessita ser adaptada às necessidades locais de cada grupo de ação.**
 
 ![Ilustração de uso da ferramenta PLANLOG](/planlog.PNG)
-![Ilustração dos forms na ferramenta PLANLOG](/planlog-forms.PNG)
+![Ilustração dos forms na ferramenta PLANLOG](https://github.com/planlog/v2/blob/master/planlog-forms.png)
