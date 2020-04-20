@@ -1,4 +1,4 @@
-# PLANLOG V2.0 (https://github.com/planlog/v2/)
+# PLANLOG V2.0
 Planilha VBA para controle de oferta e demanda de insumos para hospitais, fornecidos por voluntários, como por exemplo impressões 3D de faceshields, respiradores...etc
 
 ## Descrição
